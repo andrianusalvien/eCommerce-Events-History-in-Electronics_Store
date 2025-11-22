@@ -73,8 +73,4 @@ Understand the **Top 10 Brands** based on the number of **purchases**. This give
 - **Event per Day of the Week**: Check the weekly trend of events.
 - **Event per Month**: Understand monthly trends of events, with year and month displayed for better clarity.
 
-### **4. Customer Activity Over Time**
-See how the number of **unique customers** evolves over time by month. This helps track customer engagement across different periods.
-
-## 📂 Project Structure
 
